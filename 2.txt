@@ -1,0 +1,2 @@
+Este es el fichero 2.txt
+
